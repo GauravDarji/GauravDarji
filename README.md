@@ -12,7 +12,7 @@
 
 📫 You can reach me at gauravkumar1304@gmail.com
 
-My Experties in &#8595;
+My Experties in :point_down:
 
 [Programming Language](#programming-language)
 
