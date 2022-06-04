@@ -8,7 +8,7 @@
 
 ⚡ Fun fact love to automate stuffs
 
-💬 Ask me about **DevOps** **Automation** Tools with best Practices
+💬 Ask me about **DevOps** **Automation** Tools
 
 📫 You can reach me at gauravkumar1304@gmail.com
 
