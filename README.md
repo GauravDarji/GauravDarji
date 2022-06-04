@@ -54,6 +54,20 @@ My Experties in programming languages.
     <img src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original-wordmark.svg" title="prometheus" alt="prometheus" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original-wordmark.svg" title="grafana" alt="grafana" width="40" height="40"/>&nbsp;
 </div>
+
+[Project Management](#projectmanagement)
+
+<div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="github" alt="github" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" title="gitlab" alt="gitlab" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original-wordmark.svg" title="bitbucket" alt="bitbucket" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original-wordmark.svg" title="confluence" alt="confluence" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original-wordmark.svg" title="slack" alt="slack" width="40" height="40"/>&nbsp;
+</div>
+
+[Project Management](#projectmanagement)
 <!--
 **GauravDarji/GauravDarji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
