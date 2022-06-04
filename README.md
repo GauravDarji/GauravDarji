@@ -17,10 +17,10 @@ My Experties in programming languages.
 [Programming Language](#programming-language)
 
 <div>
-  <img src="https://github.com/devicons/devicons/devicon/tree/master/icons/bash/bash-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/tree/master/icons/python/python-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/tree/master/icons/groovy/groovy-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/tree/master/icons/php/php-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicons/devicon/tree/master/icons/bash/bash-original.svg" title="bash" alt="bash" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/tree/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/tree/master/icons/groovy/groovy-original.svg" title="groovy" alt="groovy" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/tree/master/icons/php/php-original.svg" title="php" alt="php" width="40" height="40"/>&nbsp;
 </div>
 <!--
 **GauravDarji/GauravDarji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
