@@ -14,7 +14,7 @@
 
 My Experties in programming languages.
 
-This site was built using [GitHub Pages](https://pages.github.com/)
+[An Internal Link](/guides/content/editing-an-existing-page)
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp; 
