@@ -24,6 +24,7 @@ My Experties in programming languages.
 </div>
 
 
+
 [OS Stack](#operatingsystem)
 
 <div>
@@ -34,6 +35,7 @@ My Experties in programming languages.
 </div>
 
 
+
 [Storage Engine](#database)
 
 <div>
@@ -42,6 +44,8 @@ My Experties in programming languages.
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="mssql" alt="mssql" width="40" height="40"/>&nbsp;
     </div>
+    
+    
 
 [Devops Tools](#devops)
 
@@ -55,6 +59,8 @@ My Experties in programming languages.
     <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original-wordmark.svg" title="grafana" alt="grafana" width="40" height="40"/>&nbsp;
 </div>
 
+
+
 [Project Management](#projectmanagement)
 
 <div>
@@ -67,7 +73,17 @@ My Experties in programming languages.
     <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original-wordmark.svg" title="slack" alt="slack" width="40" height="40"/>&nbsp;
 </div>
 
-[Project Management](#projectmanagement)
+
+
+[Editor / IDE](#editor)
+<div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original-wordmark.svg" title="intellij" alt="intellij" width="40" height="40"/>&nbsp;    
+    
+</div>
+
+
+![GauravDarji's GitHub stats](https://github-readme-stats.vercel.app/api?username=GauravDarji&hide=contribs,prs)
 <!--
 **GauravDarji/GauravDarji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
