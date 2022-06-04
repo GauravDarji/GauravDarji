@@ -23,6 +23,7 @@ My Experties in programming languages.
 <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php" alt="php" width="40" height="40"/>&nbsp;
 </div>
 
+
 [OS Stack](#operatingsystem)
 
 <div>
@@ -31,6 +32,7 @@ My Experties in programming languages.
 <img src="https://github.com/devicons/devicon/blob/master/icons/centos/centos-original.svg" title="centos" alt="centos" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="windows" alt="windows" width="40" height="40"/>&nbsp;
 </div>
+
 
 [Storage Engine](#database)
 
@@ -41,6 +43,17 @@ My Experties in programming languages.
     <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="mssql" alt="mssql" width="40" height="40"/>&nbsp;
     </div>
 
+[Devops Tools](#devops)
+
+<div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" title="gcp" alt="gcp" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original-wordmark.svg" title="ansible" alt="ansible" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="jenkins" alt="jenkins" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="nginx" alt="nginx" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original-wordmark.svg" title="prometheus" alt="prometheus" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original-wordmark.svg" title="grafana" alt="grafana" width="40" height="40"/>&nbsp;
+</div>
 <!--
 **GauravDarji/GauravDarji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
