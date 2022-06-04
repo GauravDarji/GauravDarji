@@ -25,7 +25,7 @@ My Experties in :point_down:
 
 
 
-[OS Stack](#operatingsystem)
+# OS Stack (#operatingsystem)
 
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
